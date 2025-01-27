@@ -1,7 +1,9 @@
 # Procesamiento de Datos Climáticos
 
 ## Descripción
-Este proyecto utiliza datos raster de temperatura máxima, temperatura mínima y precipitación en formato `.tif` para calcular índices climáticos anuales en un área determinada. Los índices generados son:
+Este proyecto utiliza datos climatologicos en distintos formatos para obtener información espacial y temporal de una determinada área de estudio.
+
+Permite obtener índices climáticos anuales y diagramas ombrotermicos en un área determinada. Los índices generados son:
 
 - Índice de aridez de Martonne
 - Índice termopluviométrico de Dantin-Revenga
